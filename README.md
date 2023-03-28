@@ -69,9 +69,6 @@
 
 ---
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/mihirh19/mihirh19/output/snake.svg" alt="Snake animation" />
-</div>
 
 ###
 
