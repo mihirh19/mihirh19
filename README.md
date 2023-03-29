@@ -31,7 +31,7 @@
 
 - I’m currently into web-development🕸
 
-- 💬 Ask me about **node, django, pandas**
+- 💬 Ask me about **Fastapi, Django, Pandas**
 
 
 
