@@ -27,7 +27,7 @@
 
 - I am Bachelors's in Information Technology 🎓 at DHARMSINGH DESAI UNIVERSITY
 
-- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- I'm currently in to backend development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - I’m currently into web-development🕸
 
