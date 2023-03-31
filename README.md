@@ -29,7 +29,7 @@
 
 - I'm currently in to backend development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- I’m exploring ** Blockchain,AI-ML **
+- I’m exploring **Blockchain, AI-ML**
 
 - 💬 Ask me about **Fastapi, Django, Pandas**
 
