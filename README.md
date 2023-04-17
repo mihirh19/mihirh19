@@ -35,7 +35,7 @@
 
 # 💫 About Me:
 
-  - I am Bachelors's in Information Technology 🎓 at DHARMSINGH DESAI UNIVERSITY
+  - I am Student of Information Technology 🎓 at DHARMSINGH DESAI UNIVERSITY
 
   - I'm currently in to backend development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
