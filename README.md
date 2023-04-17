@@ -1,7 +1,7 @@
 <!-- <h3 align="center">Hi 👋! My name is Mihir<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h3> -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Mihir+Hadavani++;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=35&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Mihir+Hadavani++;"></a>
 </p>
 
 <div id="header" align="center">
