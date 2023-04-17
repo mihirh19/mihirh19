@@ -1,4 +1,8 @@
-<h3 align="center">Hi 👋! My name is Mihir<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h3>
+<!-- <h3 align="center">Hi 👋! My name is Mihir<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h3> -->
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Mihir+Hadavani++;"></a>
+</p>
 
 <div id="header" align="center">
   
@@ -13,32 +17,36 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mihirh21) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCjBiyOWjudpNUWcq5n2rCcQ)
 
-
----
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<br>
 
 
   
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?theme=radical)
 
+  
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+ <br>
+  
 </div>
-
-
----
+ 
 
 # 💫 About Me:
 
-- I am Bachelors's in Information Technology 🎓 at DHARMSINGH DESAI UNIVERSITY
+  - I am Bachelors's in Information Technology 🎓 at DHARMSINGH DESAI UNIVERSITY
 
-- I'm currently in to backend development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  - I'm currently in to backend development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- I'm looking at **Blockchain, AI-ML**
+  - I'm looking at **Blockchain, AI-ML**
 
-- 💬 Ask me about **Fastapi, Django, Pandas**
+  - 💬 Ask me about **Fastapi, Django, Pandas**
 
-
-
----
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<br>
+</div>
 
 # 💻 Tech Stack:
 ###
@@ -63,10 +71,10 @@
   
 </div>
 
----
-
-
-###
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<br>
+</div>
 
 
 ### :fire: My Stats :
