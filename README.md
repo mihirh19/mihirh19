@@ -8,7 +8,6 @@
   
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <p> <img src="https://komarev.com/ghpvc/?username=mihir210&label=Profile%20views&color=2955ae&style=flat-square" alt="mihir210" /> </p>
-  <p> <a href="https://twitter.com/mihirh21" target="blank"><img src="https://img.shields.io/twitter/follow/mihirh21?logo=twitter&style=for-the-badge" alt="mihirh21" /></a> </p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mihir2107) 
