@@ -7,7 +7,8 @@
 <div id="header" align="center">
   
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <p> <img src="https://komarev.com/ghpvc/?username=mihir210&label=Profile%20views&color=2955ae&style=flat-square" alt="mihir210" /> </p>
+  <!-- <p> <img src="https://komarev.com/ghpvc/?username=mihir210&label=Profile%20views&color=2955ae&style=flat-square" alt="mihir210" /> </p>
+-->
 
 ## 🌐 Socials:
 
