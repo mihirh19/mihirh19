@@ -10,13 +10,15 @@
   <p> <img src="https://komarev.com/ghpvc/?username=mihir210&label=Profile%20views&color=2955ae&style=flat-square" alt="mihir210" /> </p>
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mihir2107) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mihir___2107) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mihir-hadavani-996263232) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mihirh21) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCjBiyOWjudpNUWcq5n2rCcQ)
 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<a href= "https://facebook.com/mihir2107"><img height="40" width="40" src="https://cdn.simpleicons.org/facebook" /> </a> 
+<a href = "https://instagram.com/mihir___2107"><img height="40" width="40" src="https://cdn.simpleicons.org/instagram" /></a> 
+<a href = "https://linkedin.com/in/mihir-hadavani-996263232"><img height="40" width="40" src="https://cdn.simpleicons.org/linkedin" /></a> 
+<a href = "https://twitter.com/mihirh21"><img height="40" width="40" src="https://cdn.simpleicons.org/twitter" /></a> 
+<a href = "https://www.youtube.com/channel/UCjBiyOWjudpNUWcq5n2rCcQ"><img height="40" width="40" src="https://cdn.simpleicons.org/youtube" /></a>
+
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <br>
 
 
