@@ -84,7 +84,7 @@
  -->
 
 
-   <a  href="http://www.github.com/NisargPipaliya" align ='center'><img align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirh19&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> 
+   <a  href="http://www.github.com/mihirh19" align ='center'><img align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirh19&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> 
  <br><br><br> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mihirh19&theme=dark"><br>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mihirh19&theme=dark"> 
