@@ -24,7 +24,7 @@
 
   
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?theme=radical)
+<img height = "200" width = "600" src = "https://quotes-github-readme.vercel.app/api?theme=radical&type=horizontal"/>
 
   
   
