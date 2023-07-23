@@ -94,7 +94,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mihirh19&theme=dark"> &nbsp; &nbsp;
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mihirh19&theme=dark">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mihirh19&theme=dark&utcOffset=5.30"> 
-[![Nisarg's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mihirh19&bg_color=000000&color=d1f6ff&line=39a9fe&point=ffffff&area=true&hide_border=true)](https://github.com/mihirh19)
+[![Mihir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mihirh19&bg_color=000000&color=d1f6ff&line=39a9fe&point=ffffff&area=true&hide_border=true)](https://github.com/mihirh19)
 </div>
 
 
