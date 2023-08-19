@@ -26,9 +26,9 @@
   
 ### ✍️ Random Dev Quote
 <img height = "200" width = "600" src = "https://quotes-github-readme.vercel.app/api?theme=radical&type=horizontal"/>
-
+ <!--
 <img src="https://spotify-readme-mihir21.vercel.app/api?spin=true&theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
-  
+  -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
  <br>
   
