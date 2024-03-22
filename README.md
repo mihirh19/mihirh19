@@ -1,3 +1,7 @@
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"
+/>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=%23C8BE25&size=35&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Mihir+Hadavani++;"></a>
@@ -191,6 +195,19 @@
       <img src="https://skillicons.dev/icons?i=kali" width="45" height="45" alt="Kali" title="Kali" />
       <br>Kali
     </td>
+        <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="androidstudio" title="androidstudio" />
+      <br>Android Studio
+    </td>
+        <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="gcp" title="gcp" />
+      <br>Gcp
+    </td>
+        <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="45" height="45" alt="webpack" title="webpack" />
+      <br>Webpack
+    </td>
+    
   </tr>
 </table>
 
