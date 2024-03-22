@@ -22,12 +22,9 @@
 
 <hr>
 
-
-  
 ### ✍️ Random Dev Quote
 <img height = "200" width = "600" src = "https://quotes-github-readme.vercel.app/api?theme=radical&type=horizontal"/>
 <hr>
- <br>
 
 # 💫 About Me:
 
@@ -172,6 +169,28 @@
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45" height="45" alt="Docker" title="Docker" />
       <br>Docker
     </td>
+    </tr>
+  <tr>
+     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="45" height="45" alt="Kubernetes" title="Kubernetes" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="Vscode" title="Vscode" />
+      <br>Vscode
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="NodeJs" title="NodeJs" />
+      <br>NodeJs
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=idea" width="45" height="45" alt="Idea" title="Idea" />
+      <br>Idea
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=kali" width="45" height="45" alt="Kali" title="Kali" />
+      <br>Kali
+    </td>
   </tr>
 </table>
 
@@ -183,19 +202,14 @@
 
 
 
-### :fire: My Stats :
+# <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> Stats :
 <div align="center">
 
 
 
-   <a  href="http://www.github.com/mihirh19" align ='center'><img align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirh19&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> 
+   <a  href="http://www.github.com/mihirh19" align ='center'><img align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirh19&theme=radical&hide_border=true" /></a> 
  <br><br><br> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mihirh19&theme=dark"><br>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mihirh19&theme=dark"> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mihirh19&theme=dark"> &nbsp; &nbsp;
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mihirh19&theme=dark">
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mihirh19&theme=dark&utcOffset=5.30"> 
-[![Mihir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mihirh19&bg_color=000000&color=d1f6ff&line=39a9fe&point=ffffff&area=true&hide_border=true)](https://github.com/mihirh19)
+
 </div>
 
 
