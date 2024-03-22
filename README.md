@@ -14,15 +14,32 @@
 </div>
 
 ## 🌐 Socials:
-
-<div style = "padding-right: 10px">
-
-<a href = "https://facebook.com/mihir2107"><img height="40" width="40" src="https://cdn.simpleicons.org/facebook" /> </a> 
-<a href = "https://www.instagram.com/_mihirh.21"><img height="40" width="40" src="https://cdn.simpleicons.org/instagram" /></a> 
-<a href = "https://linkedin.com/in/mihir-hadavani-996263232"><img height="40" width="40" src="https://cdn.simpleicons.org/linkedin" /></a> 
-<a href = "https://twitter.com/mihirh21"><img height="40" width="40" src="https://cdn.simpleicons.org/twitter" /></a> 
+<table align="center">
+  <tr>
+    <td>
+      <a href = "https://facebook.com/mihir2107"><img height="40" width="40" src="https://cdn.simpleicons.org/facebook" /> </a> 
+    </td>
+    <td>
+      <a href = "https://www.instagram.com/_mihirh.21"><img height="40" width="40" src="https://cdn.simpleicons.org/instagram" /></a> 
+    </td>
+    <td>
+      <a href = "https://linkedin.com/in/mihir-hadavani-996263232"><img height="40" width="40" src="https://cdn.simpleicons.org/linkedin" /></a> 
+    </td>
+<td>
+  <a href = "https://twitter.com/mihirh21"><img height="40" width="40" src="https://cdn.simpleicons.org/twitter" /></a> 
+</td>
+    <td>
+      
 <a href = "https://www.youtube.com/channel/UCjBiyOWjudpNUWcq5n2rCcQ"><img height="40" width="40" src="https://cdn.simpleicons.org/youtube" /></a>
-</div>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
 
 <hr>
 
