@@ -1,7 +1,4 @@
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"
-/>
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=%23C8BE25&size=35&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Mihir+Hadavani++;"></a>
@@ -10,7 +7,6 @@
 <div id="header" align="center">
   
 <img src="https://user-images.githubusercontent.com/78534043/230702315-61c57f39-ef9b-4e8b-b1ff-d6cbbb64c808.png">
-
 </div>
 
 ## 🌐 Socials:
