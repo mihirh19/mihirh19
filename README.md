@@ -5,75 +5,182 @@
 
 <div id="header" align="center">
   
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<img src="https://user-images.githubusercontent.com/78534043/230702315-61c57f39-ef9b-4e8b-b1ff-d6cbbb64c808.png">
 
+</div>
 
 ## 🌐 Socials:
 
-<a href= "https://facebook.com/mihir2107"><img height="40" width="40" src="https://cdn.simpleicons.org/facebook" /> </a> 
+<div style = "padding-right: 10px">
+
+<a href = "https://facebook.com/mihir2107"><img height="40" width="40" src="https://cdn.simpleicons.org/facebook" /> </a> 
 <a href = "https://www.instagram.com/_mihirh.21"><img height="40" width="40" src="https://cdn.simpleicons.org/instagram" /></a> 
 <a href = "https://linkedin.com/in/mihir-hadavani-996263232"><img height="40" width="40" src="https://cdn.simpleicons.org/linkedin" /></a> 
 <a href = "https://twitter.com/mihirh21"><img height="40" width="40" src="https://cdn.simpleicons.org/twitter" /></a> 
 <a href = "https://www.youtube.com/channel/UCjBiyOWjudpNUWcq5n2rCcQ"><img height="40" width="40" src="https://cdn.simpleicons.org/youtube" /></a>
+</div>
 
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<br>
+<hr>
 
 
   
 ### ✍️ Random Dev Quote
 <img height = "200" width = "600" src = "https://quotes-github-readme.vercel.app/api?theme=radical&type=horizontal"/>
-<img src="https://spotify-readme-mihir21.vercel.app/api?spin=true&theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<hr>
  <br>
-  
-</div>
- 
 
 # 💫 About Me:
 
   - I am Student of Information Technology 🎓 at DHARMSINGH DESAI UNIVERSITY
-
   - I'm currently in to backend development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
   - I'm looking at **Blockchain, AI-ML**
-
   - 💬 Ask me about **Fastapi, Django, Pandas**
 
+<hr>
+
+# ⚡ Tech Stack:
+
+### 🚀 Languages
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="c" title="c" />
+      <br>C
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="45" height="45" alt="c++" title="c++" />
+      <br>C ++
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" title="css" />
+      <br>CSS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="html" title="html" />
+      <br>HTML
+    </td>
+<td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45" alt="java" title="java" />
+      <br>Java
+    </td>
+<td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="javascript" title="javascript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" alt="python" title="python" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" title="Solidity" />
+      <br>Solidity
+    </td>
+    
+  </tr>
+</table>
+
+### 💻 Libraries & Framework
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="bootstrap" title="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="45" height="45" alt="django" title="django" />
+      <br>Django
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=expressjs" width="45" height="45" alt="expressjs" title="expressjs" />
+      <br>Expressjs
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="Fastapi" title="fastapi" />
+      <br>Fastapi
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flask" width="45" height="45" alt="Flask" title="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" title="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="NextJs" title="NextJs" />
+      <br>NextJs
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="NodeJs" title="NodeJs" />
+      <br>NodeJs
+    </td>
+  </tr>
+  <tr>
+<td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" alt="React" title="React" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="45" height="45" alt="Redux" title="Redux" />
+      <br>Redux
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="45" height="45" alt="RestApi" title="RestApi" />
+      <br>RestApi
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=prisma" width="45" height="45" alt="prisma" title="prisma" />
+      <br>Prisma
+    </td>
+  </tr>
+</table>
+
+### 🧑🏻‍💻 Tools & Platform
+
+<table align="center">
+  <tr>
+     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="45" height="45" alt="AWS" title="Aws" />
+      <br>Aws
+    </td>
+     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="45" height="45" alt="Github" title="Github" />
+      <br>Github
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Vercel" title="Vercel" />
+      <br>Vercel
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDb" title="MongoDb" />
+      <br>MongoDB
+    </td>
+     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45" alt="Mysql" title="Mysql" />
+      <br>Mysql
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="Postgres" title="Postgres" />
+      <br>Postgres
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" title="Postman" />
+      <br>Postman 
+    </td>
+     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="45" height="45" alt="Docker" title="Docker" />
+      <br>Docker
+    </td>
+  </tr>
+</table>
+
 <div align="center">
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <br>
 </div>
 
-# 💻 Tech Stack:
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <a href= "https://www.djangoproject.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  /></a>
-  <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  /></a>
-  <a href = "https://flask.palletsprojects.com/en/2.2.x/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" width="52" alt="flask logo"  /></a>
-  <a href = "https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  /></a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
- <a href = "https://www.java.com/en/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  /></a>
-  <a href = "https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  /></a>
- <a href = "https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  /></a>
- <a href = "https://nodejs.org/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  /></a>
-  <a href = "https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  /></a>
- <a href = "https://reactjs.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  /></a>
-  <a href  = "https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  /></a>
-  <a href= "https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  /></a>
-  
-</div>
-
-<div align="center">
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<br>
-</div>
 
 
 ### :fire: My Stats :
