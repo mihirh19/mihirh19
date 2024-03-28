@@ -106,6 +106,10 @@
       <br>Bootstrap
     </td>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="tailwind" title="tailwind" />
+      <br>tailwind
+    </td>
+    <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" width="45" height="45" alt="django" title="django" />
       <br>Django
     </td>
