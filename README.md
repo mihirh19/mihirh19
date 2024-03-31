@@ -258,8 +258,9 @@
  <br><br><br> 
   <div align="center">
 <img src="./profile-3d-contrib/profile-night-green.svg" width="600" alt="Netlify" title="Netlify" />
-    
-<img src="https://holopin.me/mihirh19" width="600" alt="Netlify" title="Netlify" />
+
+
+[![An image of @mihirh19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mihirh19)](https://holopin.io/@mihirh19)
 </div>
 
 </div>
