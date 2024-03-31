@@ -21,6 +21,7 @@
     <td>
       <a href = "https://linkedin.com/in/mihir-hadavani-996263232"><img height="40" width="40" src="https://cdn.simpleicons.org/linkedin" /></a> 
     </td>
+    
 <td>
   <a href = "https://twitter.com/mihirh21"><img height="40" width="40" src="https://cdn.simpleicons.org/twitter" /></a> 
 </td>
@@ -28,6 +29,14 @@
       
 <a href = "https://www.youtube.com/channel/UCjBiyOWjudpNUWcq5n2rCcQ"><img height="40" width="40" src="https://cdn.simpleicons.org/youtube" /></a>
     </td>
+     <td>
+      <a href = "https://leetcode.com/mihir21/"><img height="40" width="40" src="https://cdn.simpleicons.org/leetcode" /></a> 
+    </td>
+     <td>
+      <a href = "https://monkeytype.com/profile/mihir2004"><img height="40" width="40" src="https://cdn.simpleicons.org/monkeytype" /></a> 
+    </td>
+    
+    
   </tr>
 </table>
 
