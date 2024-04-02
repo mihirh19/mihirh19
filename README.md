@@ -6,7 +6,9 @@
 
 <div id="header" align="center">
   
+<img src="mihir banner both.gif">
 <img src="https://user-images.githubusercontent.com/78534043/230702315-61c57f39-ef9b-4e8b-b1ff-d6cbbb64c808.png">
+
 </div>
 
 ## 🌐 Socials:
@@ -255,7 +257,7 @@
 
 
    <a  href="http://www.github.com/mihirh19" align ='center'><img align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirh19&theme=radical&hide_border=true" /></a> 
- <br><br><br> 
+ <br>
   <div align="center">
 <img src="./profile-3d-contrib/profile-night-green.svg" width="600" alt="Netlify" title="Netlify" />
 
