@@ -1,8 +1,9 @@
 
-
+<!---
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=%23C8BE25&size=35&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Mihir+Hadavani++;"></a>
 </p>
+-->
 
 <div id="header" align="center">
   
