@@ -267,7 +267,8 @@
  <br>
   <div align="center">
 <img src="./profile-3d-contrib/profile-night-green.svg" width="600" alt="Netlify" title="Netlify" />
-
+    
+![LeetCode Stats](https://leetcard.jacoblin.cool/mihir21?theme=dark&font=JetBrains%20Mono&ext=activity)
 
 [![An image of @mihirh19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mihirh19)](https://holopin.io/@mihirh19)
 </div>
