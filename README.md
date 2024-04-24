@@ -223,10 +223,6 @@
       <br>Vscode
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="NodeJs" title="NodeJs" />
-      <br>NodeJs
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=idea" width="45" height="45" alt="Idea" title="Idea" />
       <br>Idea
     </td>
