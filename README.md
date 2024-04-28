@@ -7,7 +7,7 @@
 
 <div id="header" align="center">
   
-<img src="mihir banner both.gif">
+<img src="mihir hadavani both.gif">
 <img src="https://user-images.githubusercontent.com/78534043/230702315-61c57f39-ef9b-4e8b-b1ff-d6cbbb64c808.png">
 
 </div>
