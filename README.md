@@ -108,10 +108,6 @@
       <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" alt="python" title="python" />
       <br>Python
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" title="Solidity" />
-      <br>Solidity
-    </td>
     
   </tr>
 </table>
@@ -119,10 +115,6 @@
 ### 💻 Libraries & Framework
 <table align="center">
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="bootstrap" title="bootstrap" />
-      <br>Bootstrap
-    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="tailwind" title="tailwind" />
       <br>tailwind
@@ -142,10 +134,6 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=flask" width="45" height="45" alt="Flask" title="Flask" />
       <br>Flask
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" title="Flutter" />
-      <br>Flutter
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="NextJs" title="NextJs" />
