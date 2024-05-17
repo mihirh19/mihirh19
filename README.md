@@ -83,10 +83,6 @@
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="c" title="c" />
-      <br>C
-    </td>
-    <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="45" height="45" alt="c++" title="c++" />
       <br>C ++
     </td>
@@ -118,10 +114,6 @@
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="tailwind" title="tailwind" />
-      <br>tailwind
-    </td>
-    <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" width="45" height="45" alt="django" title="django" />
       <br>Django
     </td>
@@ -145,6 +137,10 @@
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="NodeJs" title="NodeJs" />
       <br>NodeJs
     </td>
+    <td align="center" width="90">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/numpy.svg" width="45" height="45" alt="numpy" title="numpy" />
+      <br>Numpy
+    </td>
   </tr>
   <tr>
 <td align="center" width="90">
@@ -156,12 +152,20 @@
       <br>Redux
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="45" height="45" alt="RestApi" title="RestApi" />
-      <br>RestApi
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=prisma" width="45" height="45" alt="prisma" title="prisma" />
       <br>Prisma
+    </td>
+        <td align="center" width="90">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/pandas.svg" width="45" height="45" alt="pandas" title="pandas" />
+      <br>Pandas
+    </td>
+        <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="45" height="45" alt="sklearn" title="sklearn" />
+      <br>Sklearn
+    </td>
+     <td align="center" width="90">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/langchain.svg" width="45" height="45" alt="langchain" title="langchain" />
+      <br>Langchain
     </td>
   </tr>
 </table>
