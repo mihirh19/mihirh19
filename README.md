@@ -87,11 +87,11 @@
       <br>C ++
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" title="css" />
+      <img src="https://img.icons8.com/plasticine/200/css3.png" width="45" height="45" alt="css" title="css" />
       <br>CSS
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="html" title="html" />
+      <img src="https://img.icons8.com/plasticine/200/html-5.png" width="45" height="45" alt="html" title="html" />
       <br>HTML
     </td>
 <td align="center" width="90">
@@ -126,24 +126,14 @@
       <br>Fastapi
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flask" width="45" height="45" alt="Flask" title="Flask" />
-      <br>Flask
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="NextJs" title="NextJs" />
       <br>NextJs
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="NodeJs" title="NodeJs" />
+      <img src="https://img.icons8.com/color/48/nodejs.png" width="45" height="45" alt="NodeJs" title="NodeJs" />
       <br>NodeJs
     </td>
     <td align="center" width="90">
-      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/numpy.svg" width="45" height="45" alt="numpy" title="numpy" />
-      <br>Numpy
-    </td>
-  </tr>
-  <tr>
-<td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" alt="React" title="React" />
       <br>React
     </td>
@@ -151,12 +141,18 @@
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="45" height="45" alt="Redux" title="Redux" />
       <br>Redux
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=prisma" width="45" height="45" alt="prisma" title="prisma" />
+      <img src="https://img.icons8.com/fluency/48/prisma-orm.png" width="45" height="45" alt="prisma" title="prisma" />
       <br>Prisma
     </td>
         <td align="center" width="90">
-      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/pandas.svg" width="45" height="45" alt="pandas" title="pandas" />
+      <img src="https://img.icons8.com/color/48/numpy.png" width="45" height="45" alt="numpy" title="numpy" />
+      <br>Numpy
+    </td>
+        <td align="center" width="90">
+      <img src="https://img.icons8.com/color/48/pandas.png" width="45" height="45" alt="pandas" title="pandas" />
       <br>Pandas
     </td>
         <td align="center" width="90">
@@ -166,6 +162,10 @@
      <td align="center" width="90">
       <img src="https://github.com/onemarc/tech-icons/blob/main/icons/langchain.svg" width="45" height="45" alt="langchain" title="langchain" />
       <br>Langchain
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/tensorflow-light.svg" width="45" height="45" alt="langchain" title="langchain" />
+      <br>Tensorflow
     </td>
   </tr>
 </table>
@@ -179,7 +179,7 @@
       <br>Aws
     </td>
      <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="45" height="45" alt="Github" title="Github" />
+      <img src="https://img.icons8.com/doodle/48/github--v1.png" width="45" height="45" alt="Github" title="Github" />
       <br>Github
     </td>
     <td align="center" width="90">
@@ -187,7 +187,7 @@
       <br>Vercel
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDb" title="MongoDb" />
+      <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-mongodb-a-cross-platform-document-oriented-database-program-logo-green-tal-revivo.png" width="45" height="45" alt="MongoDb" title="MongoDb" />
       <br>MongoDB
     </td>
      <td align="center" width="90">
@@ -195,11 +195,11 @@
       <br>Mysql
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="Postgres" title="Postgres" />
+      <img src="https://img.icons8.com/plasticine/200/postgreesql.png" width="45" height="45" alt="Postgres" title="Postgres" />
       <br>Postgres
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" title="Postman" />
+      <img src="https://img.icons8.com/dusk/64/postman-api.png" width="45" height="45" alt="Postman" title="Postman" />
       <br>Postman 
     </td>
      <td align="center" width="90">
@@ -212,8 +212,12 @@
       <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="45" height="45" alt="Kubernetes" title="Kubernetes" />
       <br>Kubernetes
     </td>
+     <td align="center" width="90">
+      <img src="https://img.icons8.com/color/48/jenkins.png" width="45" height="45" alt="Kubernetes" title="Kubernetes" />
+      <br>Jenkins
+    </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="Vscode" title="Vscode" />
+      <img src="https://img.icons8.com/dusk/64/visual-studio.png" width="45" height="45" alt="Vscode" title="Vscode" />
       <br>Vscode
     </td>
     <td align="center" width="90">
@@ -221,15 +225,15 @@
       <br>Idea
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=kali" width="45" height="45" alt="Kali" title="Kali" />
+      <img src="https://img.icons8.com/plasticine/200/kali-linux.png" width="45" height="45" alt="Kali" title="Kali" />
       <br>Kali
     </td>
         <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="androidstudio" title="androidstudio" />
+      <img src="https://img.icons8.com/doodle/48/android-studio--v2.png" width="45" height="45" alt="androidstudio" title="androidstudio" />
       <br>Android Studio
     </td>
         <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="gcp" title="gcp" />
+      <img src="https://img.icons8.com/color/48/google-cloud.png" width="45" height="45" alt="gcp" title="gcp" />
       <br>Gcp
     </td>
         <td align="center" width="90">
