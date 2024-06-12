@@ -18,24 +18,24 @@
 <table align="center">
   <tr>
     <td>
-      <a href = "https://facebook.com/mihir2107"><img height="40" width="40" src="https://cdn.simpleicons.org/facebook" /> </a> 
+      <a href = "https://facebook.com/mihir2107"><img height="60" width="60" src="https://img.icons8.com/plasticine/100/facebook-new.png" /> </a> 
     </td>
     <td>
-      <a href = "https://www.instagram.com/_mihirh.21"><img height="40" width="40" src="https://cdn.simpleicons.org/instagram" /></a> 
+      <a href = "https://www.instagram.com/_mihirh.21"><img height="60" width="60" src="https://img.icons8.com/plasticine/100/instagram-new--v2.png" /></a> 
     </td>
     <td>
-      <a href = "https://linkedin.com/in/mihir-hadavani-996263232"><img height="40" width="40" src="https://cdn.simpleicons.org/linkedin" /></a> 
+      <a href = "https://linkedin.com/in/mihir-hadavani-996263232"><img height="60" width="60" src="https://img.icons8.com/doodle/48/linkedin--v2.png" /></a> 
     </td>
     
 <td>
-  <a href = "https://twitter.com/mihirh21"><img height="40" width="40" src="https://cdn.simpleicons.org/twitter" /></a> 
+  <a href = "https://twitter.com/mihirh21"><img height="60" width="60" src="https://img.icons8.com/ios/50/FFFFFF/twitterx--v1.png" /></a> 
 </td>
     <td>
       
-<a href = "https://www.youtube.com/channel/UCjBiyOWjudpNUWcq5n2rCcQ"><img height="40" width="40" src="https://cdn.simpleicons.org/youtube" /></a>
+<a href = "https://www.youtube.com/channel/UCjBiyOWjudpNUWcq5n2rCcQ"><img height="60" width="60" src="https://img.icons8.com/doodle/48/youtube-play--v2.png" /></a>
     </td>
      <td>
-      <a href = "https://leetcode.com/mihir21/"><img height="40" width="40" src="https://cdn.simpleicons.org/leetcode" /></a> 
+      <a href = "https://leetcode.com/mihir21/"><img height="60" width="60" src="https://cdn.simpleicons.org/leetcode" /></a> 
     </td>
      <td>
       <a href = "https://monkeytype.com/profile/mihir2004"><img height="40" width="40" src="https://cdn.simpleicons.org/monkeytype" /></a> 
