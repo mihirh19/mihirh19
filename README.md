@@ -72,7 +72,7 @@
   - 🔭 I am Student of Information Technology 🎓 at DHARMSINH DESAI UNIVERSITY
   - 🌱 I'm currently in to backend development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   - 🤔 I'm looking at **Blockchain, AI-ML**
-  - 💬 Ask me about **expresjs, Django, react**
+  - 💬 Ask me about **Python, FastAPI, React**
 
 <hr>
 
