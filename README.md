@@ -70,9 +70,9 @@
 # 💫 About Me:
 
   - 🔭 I am Student of Information Technology 🎓 at DHARMSINH DESAI UNIVERSITY
-  - 🌱 I'm currently in to backend development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  - 🌱 I'm currently in to devops <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   - 🤔 I'm looking at **Blockchain, AI-ML**
-  - 💬 Ask me about **Python, FastAPI, React**
+  - 💬 Ask me about **Docker, linux, k8s**
 
 <hr>
 
