@@ -83,10 +83,6 @@
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="45" height="45" alt="c++" title="c++" />
-      <br>C ++
-    </td>
-    <td align="center" width="90">
       <img src="https://img.icons8.com/plasticine/200/css3.png" width="45" height="45" alt="css" title="css" />
       <br>CSS
     </td>
