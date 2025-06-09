@@ -252,44 +252,6 @@
 <div align="center">
 
 
-
- 
- <br>
-
-  <table>
-<tr>
-
-  <td>
-    
-[![mihirh19's GitHub | Stats](https://stats.quine.sh/mihirh19/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mihirh19)
-    
-  </td>
-  <td>
-    
-[![mihirh19's GitHub | Dependencies](https://stats.quine.sh/mihirh19/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mihirh19)
-
-
-  </td>
-</tr>
-<tr>
-<td>
-  
-[![mihirh19's GitHub | Languages Over Time](https://stats.quine.sh/mihirh19/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mihirh19)
-  
-</td>
-  <td>
-
-  [![mihirh19's Stack Overflow | Stats](https://stats.quine.sh/mihirh19/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mihirh19)
-    
-  </td>
-</tr>
-    
-  </table> 
-
-
-
-
-
 [![An image of @mihirh19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mihirh19)](https://holopin.io/@mihirh19)
 
 </div>
