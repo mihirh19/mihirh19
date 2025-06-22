@@ -118,12 +118,12 @@
       <br>Expressjs
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="Fastapi" title="fastapi" />
-      <br>Fastapi
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="NextJs" title="NextJs" />
       <br>NextJs
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000" width="45" height="45" alt="Angular" title="Angular" />
+      <br>Angular
     </td>
     <td align="center" width="90">
       <img src="https://img.icons8.com/color/48/nodejs.png" width="45" height="45" alt="NodeJs" title="NodeJs" />
@@ -160,7 +160,7 @@
       <br>Langchain
     </td>
     <td align="center" width="90">
-      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/tensorflow-light.svg" width="45" height="45" alt="langchain" title="langchain" />
+      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/tensorflow-light.svg" width="45" height="45" alt="tensorflow" title="langchain" />
       <br>Tensorflow
     </td>
   </tr>
@@ -209,8 +209,12 @@
       <br>Kubernetes
     </td>
      <td align="center" width="90">
-      <img src="https://img.icons8.com/color/48/jenkins.png" width="45" height="45" alt="Kubernetes" title="Kubernetes" />
+      <img src="https://img.icons8.com/color/48/jenkins.png" width="45" height="45" alt="Jenkins" title="Jenkins" />
       <br>Jenkins
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GithubActions-Light.svg" width="45" height="45" alt="Github Actions" title="Github Actions" />
+      <br>GitHub Actions
     </td>
     <td align="center" width="90">
       <img src="https://img.icons8.com/dusk/64/visual-studio.png" width="45" height="45" alt="Vscode" title="Vscode" />
